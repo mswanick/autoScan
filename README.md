@@ -6,3 +6,5 @@ The script uses the spider feature of [OWASP ZAP](https://www.zaproxy.org/) to s
 ## Requirements
 This currently runs using [Ubuntu 22.04.1 LTS](https://releases.ubuntu.com/22.04/), [ZAP v2.12.0](https://github.com/zaproxy/zaproxy/releases/tag/v2.12.0), and Python 3.10
 
+
+Note: Grammarly is used as an example in accordance with its [bug bounty program](https://firebounty.com/828-grammarly/)
