@@ -1,0 +1,12 @@
+{
+  "clients": [
+    {
+      "client": "grammarly",
+      "sites": ["https://www.grammarly.com"]
+    },
+        {
+      "client": "testTargets",
+      "sites": ["https://public-firing-range.appspot.com", "https://google-gruyere.appspot.com/"]
+    }
+  ]
+}
